@@ -1,0 +1,22 @@
+<title>Acerca de</title>
+<section style="height: 140px; background-image:url('assets/img/lateral.png');background-repeat:repeat;background-position:center;"><br><br><center><h1>Mision</h1></center></section>
+<br>
+<div class="container">
+	<h4 style="text-align:justify;"><div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui blanditiis non cum voluptates illo, a cumque, praesentium ad rem voluptatum distinctio veritatis natus consectetur saepe fuga perferendis recusandae asperiores corporis!Architecto alias dignissimos eius sed ratione praesentium consequatur unde eos libero, fugiat sit illo laudantium cupiditate id repellat voluptatum quas similique iste. Quia ab atque tenetur illum aspernatur corrupti aliquam?	In quibusdam, iusto quia ullam distinctio expedita alias, rerum voluptatem cupiditate perspiciatis cum, accusantium autem totam, adipisci blanditiis molestias veniam ratione incidunt aspernatur fuga! Corporis tempore at totam, minus deserunt?
+	Nam ipsum voluptatum possimus natus labore pariatur ad dignissimos voluptatem, alias exercitationem voluptate, maiores dolor error iste placeat? Dolore veritatis omnis temporibus sequi eveniet dignissimos in laborum id illum ullam.	Voluptatem quas ad, tempora ipsum et repellendus. Impedit blanditiis esse quisquam, dignissimos harum deserunt cumque inventore laborum tempora. Dicta laborum, magni libero distinctio vitae ducimus provident placeat quasi porro accusamus?</h4>
+</div>
+<br><br>
+<section style="height: 140px; background-image:url('assets/img/lateral.png');background-repeat:repeat;background-position:center;"><br><br><center><h1>Vision</h1></center></section>
+<br>
+<div class="container">
+	<h4 style="text-align:justify;"><div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui blanditiis non cum voluptates illo, a cumque, praesentium ad rem voluptatum distinctio veritatis natus consectetur saepe fuga perferendis recusandae asperiores corporis!Architecto alias dignissimos eius sed ratione praesentium consequatur unde eos libero, fugiat sit illo laudantium cupiditate id repellat voluptatum quas similique iste. Quia ab atque tenetur illum aspernatur corrupti aliquam?	In quibusdam, iusto quia ullam distinctio expedita alias, rerum voluptatem cupiditate perspiciatis cum, accusantium autem totam, adipisci blanditiis molestias veniam ratione incidunt aspernatur fuga! Corporis tempore at totam, minus deserunt?
+	Nam ipsum voluptatum possimus natus labore pariatur ad dignissimos voluptatem, alias exercitationem voluptate, maiores dolor error iste placeat? Dolore veritatis omnis temporibus sequi eveniet dignissimos in laborum id illum ullam.	Voluptatem quas ad, tempora ipsum et repellendus. Impedit blanditiis esse quisquam, dignissimos harum deserunt cumque inventore laborum tempora. Dicta laborum, magni libero distinctio vitae ducimus provident placeat quasi porro accusamus?</h4>
+</div>
+<br><br><br>
+<section style="height: 140px; background-image:url('assets/img/lateral.png');background-repeat:repeat;background-position:center;"><br><br><center><h1>Objetivo General</h1></center></section>
+<br>
+<div class="container">
+	<h4 style="text-align:justify;"><div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui blanditiis non cum voluptates illo, a cumque, praesentium ad rem voluptatum distinctio veritatis natus consectetur saepe fuga perferendis recusandae asperiores corporis!Architecto alias dignissimos eius sed ratione praesentium consequatur unde eos libero, fugiat sit illo laudantium cupiditate id repellat voluptatum quas similique iste. Quia ab atque tenetur illum aspernatur corrupti aliquam?	In quibusdam, iusto quia ullam distinctio expedita alias, rerum voluptatem cupiditate perspiciatis cum, accusantium autem totam, adipisci blanditiis molestias veniam ratione incidunt aspernatur fuga! Corporis tempore at totam, minus deserunt?
+	Nam ipsum voluptatum possimus natus labore pariatur ad dignissimos voluptatem, alias exercitationem voluptate, maiores dolor error iste placeat? Dolore veritatis omnis temporibus sequi eveniet dignissimos in laborum id illum ullam.	Voluptatem quas ad, tempora ipsum et repellendus. Impedit blanditiis esse quisquam, dignissimos harum deserunt cumque inventore laborum tempora. Dicta laborum, magni libero distinctio vitae ducimus provident placeat quasi porro accusamus?</h4>
+</div>
+<br><br><br>
