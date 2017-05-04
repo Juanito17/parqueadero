@@ -1,0 +1,91 @@
+.body_index{
+	background-image: url('../img/background_body_grey.jpg');
+	background-size: 100% 100%;
+}
+.behind_logo{
+	background: rgba(242,246,248,0.81);
+	width: 100%;
+}
+.header_body{
+	font-family: verdana cursive;
+	box-shadow: 1px 1px 5px 5px grey;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 5px;
+}
+#body_container{
+	margin:20px;
+	color: black;
+	font-size: 19px;
+	background: rgba(242,246,248,0.81);
+	height: auto;
+	padding: 15px;
+	width: 90%;
+}
+#body_container_login{
+	margin-top: 8%;
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-bottom: 8%;
+	color: black;
+	font-size: 19px;
+	background: rgba(242,246,248,0.81);
+	height: auto;
+	padding: 15px;
+	width: 20%;
+	box-shadow: 1px 1px 5px 5px black;
+	border-radius: 15px;
+}
+#menu_option{
+	top: 0px;
+	padding: 15px;
+	position: absolute;
+	margin-right: 0px;
+	display: none;
+	background-size: 100% 100%;
+	background-image: url('../img/background_body.jpg');
+	width: 100%;
+	height: 110%;
+	z-index: 1;
+}
+.img_user{
+	width: 100px;
+	border-radius: 50px;
+	box-shadow: 1px 1px 5px 5px black;
+	transform: translateY(-60px);
+
+}
+.img_banner_carousel{
+	width: 100%;
+	height: 10%;
+
+}
+.img_estand{
+	background-color: black;
+	width: 200px;
+	border: 8px solid black;
+	border-radius: 15px;
+}
+.img_estand:hover{
+	-moz-transform: scale(1.1);
+  	-webkit-transform: scale(1.1);
+  	transform: scale(1.1);
+}
+.btn_label{
+	background-color: grey; 
+}
+@media screen and (max-width: 780px) {
+	#body_container_login{
+	margin-top: 40%;
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-bottom: 40%;
+	color: black;
+	font-size: 19px;
+	background: rgba(242,246,248,0.81);
+	height: auto;
+	padding: 15px;
+	width: auto;
+	box-shadow: 1px 1px 5px 5px black;
+}
+}
